@@ -1,6 +1,3 @@
-# AtividadeContaCorrente
-Programa básico em C# de uma conta corrente, focado em programação orientado a objetos.
-
 **# Atividade de programação Orientada a objetos - Conta Corrente #**
 
 Nessa atividade, foi criado um programa bem simples de uma conta corrente, com foco na aprendizagem básica de **programação orientada a objeto**. 
